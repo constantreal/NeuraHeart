@@ -18,4 +18,4 @@ print(ns.process("I'm feeling very angry today."))
 ```
 
 ---
-Made with ❤️ by Sahil – 2025
+Made with ❤️ by Sahil Jaith – 2025
